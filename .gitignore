@@ -1,0 +1,43 @@
+# === Sistema Operacional ===
+.DS_Store
+Thumbs.db
+
+# === Logs ===
+*.log
+logs/
+
+# === Dependências ===
+node_modules/
+vendor/
+
+# === Ambientes / Segredos ===
+.env
+.env.*
+!.env.example
+
+# === Build / Dist ===
+dist/
+build/
+out/
+
+# === Cache / Temporários ===
+.cache/
+.tmp/
+temp/
+
+# === IDEs / Editores ===
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# === Testes / Coverage ===
+coverage/
+.nyc_output/
+
+# === Python (caso use) ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/

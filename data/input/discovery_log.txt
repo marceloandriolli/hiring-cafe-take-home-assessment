@@ -1,0 +1,15 @@
+
+[Strategy 2] Subdomain Pattern Testing
+  Testing 47 potential subdomains...
+Testing:   0%|          | 0/47 [00:00<?, ?it/s]Testing:   2%|▏         | 1/47 [00:00<00:26,  1.76it/s]Testing:   9%|▊         | 4/47 [00:01<00:13,  3.14it/s]Testing:  17%|█▋        | 8/47 [00:01<00:05,  7.02it/s]Testing:  26%|██▌       | 12/47 [00:02<00:05,  6.35it/s]Testing:  34%|███▍      | 16/47 [00:02<00:03,  9.45it/s]Testing:  40%|████      | 19/47 [00:03<00:04,  6.02it/s]Testing:  45%|████▍     | 21/47 [00:04<00:06,  3.90it/s]Testing:  49%|████▉     | 23/47 [00:04<00:06,  3.79it/s]Testing:  57%|█████▋    | 27/47 [00:05<00:03,  5.97it/s]Testing:  62%|██████▏   | 29/47 [00:05<00:03,  4.83it/s]Testing:  66%|██████▌   | 31/47 [00:06<00:04,  3.75it/s]Testing:  68%|██████▊   | 32/47 [00:07<00:05,  2.87it/s]Testing:  77%|███████▋  | 36/47 [00:07<00:02,  4.98it/s]Testing:  83%|████████▎ | 39/47 [00:08<00:01,  4.82it/s]Testing:  91%|█████████▏| 43/47 [00:08<00:00,  7.23it/s]Testing: 100%|██████████| 47/47 [00:08<00:00, 10.14it/s]Testing: 100%|██████████| 47/47 [00:08<00:00,  5.58it/s]
+  Found 0 new sites
+
+[Verification] Checking 0 discovered sites...
+Verifying: 0it [00:00, ?it/s]Verifying: 0it [00:00, ?it/s]
+  0 sites verified as active
+
+[Saved] 0 sites to data/input/discovered_sites.txt
+
+================================================================================
+Discovery complete! Found 0 Avature sites
+================================================================================
